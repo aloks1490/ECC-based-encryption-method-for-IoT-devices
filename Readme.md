@@ -56,8 +56,7 @@ This project was developed by :
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/smart-home-device-manager.git
-   cd smart-home-device-manager
+   git clone https://github.com/aloks1490/ECC-based-encryption-method-for-IoT-devices.git
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
